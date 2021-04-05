@@ -38,8 +38,8 @@ public class RentalAgreementTest {
                 "Tool type: Ladder\n" +
                 "Tool brand: Werner\n" +
                 "Rental days: 5\n" +
-                "Checkout date: 07/02/2021\n" +
-                "Due date: 07/07/2021\n" +
+                "Checkout date: 07/02/21\n" +
+                "Due date: 07/07/21\n" +
                 "Daily rental charge: $1.99\n" +
                 "Charge days: 4\n" +
                 "Pre-discount charge: $7.96\n" +

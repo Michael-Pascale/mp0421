@@ -42,7 +42,7 @@ public class RentalAgreement {
 
     private void initializeFormatters() {
         this.priceFormatter = new DecimalFormat("###,###,##0.00");
-        this.dateFormatter = DateTimeFormatter.ofPattern("MM/dd/yyyy");
+        this.dateFormatter = DateTimeFormatter.ofPattern("MM/dd/yy");
 
     }
 
