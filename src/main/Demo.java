@@ -8,6 +8,11 @@ import service.exception.RentalServiceException;
 
 import java.util.Scanner;
 
+/**
+ * Demo of the rental service functionality
+ *
+ * @Author Michael Pascale
+ */
 public class Demo {
     public static void main(String[] args) {
         //Initialize rental service and demo data
